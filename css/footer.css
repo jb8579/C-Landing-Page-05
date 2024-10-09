@@ -25,7 +25,10 @@
     color: #53233d;
     border-radius: 8px;
 }
-
+#nlportal .header-logo img {
+    height: 90%;
+    max-width: 120px;
+}
 #nlportal .login-menu[data-v-20d02180] {
     height: 100%;
     display: flex;
